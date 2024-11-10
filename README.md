@@ -1,6 +1,6 @@
-# Medical Care Hospital Website
+# Solanke Hospital Website
 
-A modern, responsive website for Medical Care Hospital showcasing various medical services and specialties.
+A modern, responsive website for Solanke Hospital, under the expert care of Dr. Shekhar Solanke, showcasing various medical services and specialties.
 
 ## Features
 
